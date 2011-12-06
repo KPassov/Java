@@ -1,0 +1,74 @@
+What would you like to do?
+> define a
+How?
+> diagonal
+Of what size?
+> 3
+Which value?
+> 5
+Done.
+
+What would you like to do?
+> print a
+5 0 0
+0 5 0
+0 0 5
+Done.
+
+What would you like to do?
+> define b
+How do you want to define the matrix?
+> manual
+What size matrix would you like to define?
+> 3
+Please enter row 1:
+> 1 2 3
+Please enter row 2:
+> 4 5 6
+Please enter row 3:
+> 7 8 9
+Done.
+
+What would you like to do?
+> transpose b
+Done.
+
+What would you like to do?
+> print b
+1 4 7
+2 5 8
+3 6 9
+Done.
+
+What would you like to do?
+> define b
+How do you want to define the matrix?
+> manual
+What size matrix would you like to define?
+> 2
+Please enter row 1:
+> 2 5
+Please enter row 2:
+> 1 8
+Done.
+
+What would you like to do?
+> determinant b
+Done.
+
+What would you like to do?
+> print b
+-28
+Done.
+
+What would you like to do?
+> cross a b
+Done.
+
+What would you like to do?
+> print a
+5 20 35
+10 25 40
+15 30 45
+Done.
+

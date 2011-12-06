@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=size\ value
+comment0.target=Matrix(int,\ int)
+comment1.params=size\ values
+comment1.target=Matrix(int,\ int[])
+comment2.params=index
+comment2.target=int[]\ getRow(int)
+comment3.params=index
+comment3.target=int[]\ getColoumn(int)
+numComments=4
