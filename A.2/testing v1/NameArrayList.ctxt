@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NameArrayList()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ StructureTest\n
+comment1.params=
+comment1.target=void\ initialise()
+comment1.text=\n\ Initialise\ with\ names\n
+comment2.params=
+comment2.target=void\ initialiseDuplicates()
+comment2.text=\n\ Initialise\ with\ duplicate\ names\n
+comment3.params=name
+comment3.target=void\ addName(java.lang.String)
+comment3.text=\n\ Add\ a\ name\ to\ the\ array\ list\n\ @param\ name\ The\ name\ to\ be\ added\n
+comment4.params=name
+comment4.target=int\ getIndexOf(java.lang.String)
+comment4.text=\n\ Find\ the\ position\ where\ a\ given\ name\ is\ placed\ in\ the\ array\n\ @param\ name\ The\ name\ to\ find\ in\ the\ array\n\ @return\ The\ position\ of\ a\ name,\ -1\ if\ it\ is\ not\ found.\n
+comment5.params=name
+comment5.target=boolean\ isMember(java.lang.String)
+comment5.text=\n\ Search\ the\ array\ to\ see\ if\ a\ name\ is\ in\ the\ collection.\n\ @param\ name\ The\ name\ to\ search\ for\ in\ the\ collection.\n\ @return\ The\ result\ (true\ or\ false)\ of\ looking\ up\ a\ name.\n
+comment6.params=
+comment6.target=int\ findIndexOfLongest()
+comment6.text=\n\ Find\ the\ position\ where\ the\ longest\ name\ is\ placed\ in\ the\ array.\n\ @return\ The\ position\ of\ the\ longest\ name.\n
+comment7.params=startText
+comment7.target=java.lang.String\ deleteWith(java.lang.String)
+comment7.text=\n\ Finds\ a\ string\ starting\ with\ startText,\ deletes\ it\ and\ returns\ it\n\ @param\ startText\ the\ String\ that\ should\ be\ deletet\n\ @return\ returns\ the\ deleted\ string\ or\ an\ empty\ string\n
+numComments=8

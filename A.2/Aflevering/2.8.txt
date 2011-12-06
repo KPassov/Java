@@ -1,0 +1,7 @@
+Jeg ville gøre som jeg har gjort i metoden report i klassen DikuPlus. I stedet 
+for outputtet til consol vinduet ville jeg så initiere en tom String og fylde 
+den op med de 4 for loops.
+Jeg har valgt at gøre alt arbejdet i DikuPlus klassen fordi det var nemmere
+end at lave metoden i klasserne længere nede.
+Det kunne dog have været en god ide at gøre det da f.eks. friendToString() kunne
+have været brugbar til testklasserne.

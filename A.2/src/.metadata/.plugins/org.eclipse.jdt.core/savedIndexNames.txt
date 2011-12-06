@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/home/kasper/Documents/Java/A.2/src/.metadata/.plugins/org.eclipse.jdt.core
