@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ initializeRandom()
+comment1.params=
+comment1.target=void\ testAllValidPositions()
+comment2.params=representation\ expectedX\ expectedY
+comment2.target=void\ representationTest(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ testManyRandomInvalidPositions()
+comment4.params=
+comment4.target=void\ testRandomInvalidPosition()
+comment5.params=startInvalidRange\ endInvalidRange
+comment5.target=char\ randomChar(char,\ char)
+numComments=6

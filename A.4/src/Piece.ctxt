@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=color\ type
+comment0.target=Piece(Piece.Color,\ Piece.Type)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=char\ key()
+comment2.text=\n\ Either\ P,\ R,\ N,\ B,\ Q,\ or\ K.\n
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Position(byte,\ byte)
+comment1.params=
+comment1.target=byte\ getX()
+comment2.params=
+comment2.target=byte\ getY()
+comment3.params=representation
+comment3.target=Position\ fromRepresentation(java.lang.String)
+comment3.text=\n\ @null\ if\ the\ representation\ is\ invalid.\n
+comment4.params=other
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\n\ @true\ if\ the\ x\ and\ y\ coordinates\ are\ equal.\n
+comment5.params=
+comment5.target=int\ hashCode()
+comment5.text=\n\ x\ *\ 8\ +\ y\n
+numComments=6
