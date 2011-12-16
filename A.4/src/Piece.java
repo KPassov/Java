@@ -18,7 +18,7 @@ public abstract class Piece
     
     public String toString ()
     {
-        return color.toString().substring(0, 0) + key();
+        return color.toString().substring(0, 1) + key();
     }
     
     public boolean isLegalMove(Position start, Position end, Board board)
@@ -29,7 +29,7 @@ public abstract class Piece
         if (end.getY() > 7 || end.getX() > 7 || 
             end.getY() < 0 || end.getX() < 0) // checks if end is outside the board
             return false;
-            
+                        
         return (board.getPiece(end) == null || 
                 board.getPiece(end).getColor() != board.getPiece(start).getColor()); // checks if the space is empty or a friendly piece is standing there
     }
